@@ -12,6 +12,12 @@
 
 🔗 Some technologies I like working with
 
+{
+    "DATA WAREHOUSING": ["Excel", "SQL", "Visual Studio"]
+   "DATA TRANSFORMATION": ["Power Query", "T-SQL"]
+   "DATA VISUALIZATION": ["Visual Studio Code", "Power BI"]
+}
+
 
 <!---
 IbrahiemYousif/IbrahiemYousif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
