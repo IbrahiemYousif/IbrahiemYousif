@@ -13,9 +13,11 @@
 🔗 Some technologies I like working with
 
 {
+
     "DATA WAREHOUSING": ["Excel", "SQL", "Visual Studio"]
-   "DATA TRANSFORMATION": ["Power Query", "T-SQL"]
-   "DATA VISUALIZATION": ["Visual Studio Code", "Power BI"]
+    "DATA TRANSFORMATION": ["Power Query", "T-SQL"]
+    "DATA VISUALIZATION": ["Visual Studio Code", "Power BI"]
+   
 }
 
 
