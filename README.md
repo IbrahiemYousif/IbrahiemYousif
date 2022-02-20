@@ -1,9 +1,11 @@
 🔗 🤞
 
-   Hello,
-   I’m @IbrahiemYousif 
+  Hello -
+
+I’m @IbrahiemYousif,
      
-   Data Analyst & Business Intelligence
+Data Analyst & Business Intelligence
+
 
 🔗 Some words about me
 
