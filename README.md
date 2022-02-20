@@ -2,9 +2,9 @@
 
   Hello -
 
-I’m @IbrahiemYousif,
+    I’m @IbrahiemYousif,
      
-Data Analyst & Business Intelligence
+    Data Analyst & Business Intelligence
 
 
 🔗 Some words about me
