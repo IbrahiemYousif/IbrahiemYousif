@@ -7,7 +7,7 @@
 🔗 Some words about me
 
 
-   - 🎯/> Iam currently Full-time dive into Data Analyst, these possibilities are absolutely incredible 😍
+
    - ☕/> when i am not hacking, I do some Freelance work as Fullstack BI Analyst (visualisation)
    - 🌱/> I also Learning programming language and Following Libraries (Numpy, Pandas, Scipy, Matplotib)
    - 🍿/> Beside BI. Iam interested in Time series, especially in finance and enjoy to play sports like Hockey or fencing 
