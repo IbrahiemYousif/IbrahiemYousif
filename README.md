@@ -17,8 +17,8 @@
 
     {
 
-    "DATA WAREHOUSING": ["Excel", "SQL", "Visual Studio"]
-    "DATA TRANSFORMATION": ["Power Query", "T-SQL"]
+    "DATA WAREHOUSING": ["Excel",  "Visual Studio"]
+    "DATA TRANSFORMATION": ["Power Query"]
     "DATA VISUALIZATION": ["Visual Studio Code", "Power BI"]
    
     }
