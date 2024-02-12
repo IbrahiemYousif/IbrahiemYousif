@@ -2,13 +2,13 @@
 
    Hello -
     I’m @IbrahiemYousif,  
-     Data Analyst & Business Intelligence
+     Economist, Commodities analysis, & Business Intelligence
 
 🔗 Some words about me
 
 
 
-   - ☕/> when i am not hacking, I do some Freelance work as Fullstack BI Analyst (visualisation)
+   - ☕/> when i am not hacking, I do some Research work as Callpaper (visualisation)
    - 🌱/> I also Learning programming language and Following Libraries (Numpy, Pandas, Scipy, Matplotib)
    - 🍿/> Beside BI. Iam interested in Time series, especially in finance and enjoy to play sports like Hockey or fencing 
    - ✉️/>  You can contact me at [ibrahiemAY@gmail.com](mailto:ibrahiemAY@gmail.com)
