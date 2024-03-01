@@ -2,7 +2,7 @@
 
    Hello -
     I’m @IbrahiemYousif,  
-     Economist, Commodities analysis, & Business Intelligence
+     Economist, & Business Intelligence
 
 🔗 Some words about me
 
@@ -17,7 +17,7 @@
 
     {
 
-    "DATA WAREHOUSING": ["Excel",  "Visual Studio"]
+    "DATA WAREHOUSING": ["Excel",  "R Studio"]
     "DATA TRANSFORMATION": ["Power Query"]
     "DATA VISUALIZATION": ["Visual Studio Code", "Power BI"]
    
