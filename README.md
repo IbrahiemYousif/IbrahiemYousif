@@ -17,7 +17,7 @@
 
     {
 
-    "ECONOMIC RESEARCH & ANALYSIS": ["Traccking trends",  "assessing policies", "providing ationable recommendations"]
+    "ECONOMIC RESEARCH & ANALYSIS": ["Tracking trends",  "Assessing Policies", "Providing Actionable Recommendations"]
     "POLICY & EVALUATION": ["Economic issue", "Data Driven Solution"]
     "DATA DRIVEN DECISION": ["predictive Analysis", "Data Visualization"]
 
