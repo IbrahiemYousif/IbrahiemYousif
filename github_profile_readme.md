@@ -79,6 +79,7 @@ glimpse(profile)
   - Executed RCT data analysis and field ops for the Greater Cairo Air Quality Management & Climate Change Project.
 - **Economic Researcher** @ *Egyptian Center for Economic Studies (ECES) & Consultancies* `(2024 – 2025)`
   - Evaluated FTAs, GVCs, and regional agricultural value chains using mixed quantitative/qualitative methodologies.
+- **Economic Editor**
 
 ---
 
